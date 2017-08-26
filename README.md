@@ -1,6 +1,6 @@
 # Automation Project
 
-*Automation Project.*
+*Automation test for Amazon.com using Selenium.*
 
 **Java 7**
 
