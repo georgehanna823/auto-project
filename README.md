@@ -1,6 +1,6 @@
 # Automation Project
 
-*Structure for creating a Basic Java Project.*
+*Automation Project.*
 
 **Java 7**
 
